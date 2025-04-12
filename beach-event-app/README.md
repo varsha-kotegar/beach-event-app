@@ -2,7 +2,7 @@
 
 A responsive React website for managing and exploring events happening at different beaches. Users can view upcoming events, register, explore calendars, and more.
 
-![BeachFest Screenshot](./screenshot.png)
+
 
 ---
 
@@ -23,13 +23,6 @@ A responsive React website for managing and exploring events happening at differ
 - **Animations:** CSS Keyframes
 - **Deployment:** GitHub Pages / Netlify *(optional)*
 
----
-
-## 📸 Screenshots
-
-| Home | Events | Calendar |
-|------|--------|----------|
-| ![Home](./screenshots/home.png) | ![Events](./screenshots/events.png) | ![Calendar](./screenshots/calendar.png) |
 
 ---
 
