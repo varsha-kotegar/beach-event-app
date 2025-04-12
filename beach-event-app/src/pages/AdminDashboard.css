@@ -1,0 +1,18 @@
+/* src/pages/AdminDashboard.css */
+
+.admin-dashboard {
+    padding: 40px 20px;
+  }
+  
+  .dashboard-card {
+    margin-bottom: 20px;
+    background-color: #f2f4f8;
+    border-left: 5px solid #007bff;
+    transition: 0.2s ease;
+    border-radius: 12px;
+  }
+  
+  .dashboard-card:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  }
+  

@@ -1,0 +1,23 @@
+/* src/components/Footer.css */
+
+.footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    color: #333;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  
+  .footer-link {
+    color: #007bff;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  

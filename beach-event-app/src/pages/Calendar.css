@@ -1,0 +1,12 @@
+.custom-calendar {
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: 20px;
+}
+
+.react-calendar__tile--active {
+  background: #007bff !important;
+  color: white !important;
+  border-radius: 10px;
+}

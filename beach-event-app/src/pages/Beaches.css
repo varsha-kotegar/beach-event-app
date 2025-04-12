@@ -1,0 +1,18 @@
+/* src/pages/Beaches.css */
+
+.beaches {
+    padding: 50px 20px;
+  }
+  
+  .beach-card {
+    margin-bottom: 20px;
+    background-color: #e7f4f1;
+    transition: 0.3s ease-in-out;
+    border-radius: 10px;
+  }
+  
+  .beach-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+  
