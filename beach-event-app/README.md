@@ -30,6 +30,6 @@ A responsive React website for managing and exploring events happening at differ
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/varsha-kotegar/beachfest-website.git](https://github.com/varsha-kotegar/beach-event-app.git)
+   git clone https://github.com/varsha-kotegar/beach-event-app
    cd beachfest-website
 
